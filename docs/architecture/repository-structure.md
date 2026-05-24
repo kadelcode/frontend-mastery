@@ -184,7 +184,7 @@ ui-systems/
 Contains reusable shared resources across the repository.
 
 #### Purpose
-This workspace prevents duplication and centralizes reusable logic/resources
+This workspace prevents duplication and centralizes reusable logic/resources.
 
 #### Shared Resources Include
 - utilities
