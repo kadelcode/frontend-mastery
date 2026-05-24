@@ -18,6 +18,7 @@
   - [Planning Learning Areas](#planning-learning-areas)
   - [Engineering Principles](#engineering-principles)
   - [GitHub Workflow](#github-workflow)
+  - [Milestones](#milestones)
   - [Current Focus](#current-focus)
   - [Tech Stack](#tech-stack)
   - [Progress Tracking](#progress-tracking)
