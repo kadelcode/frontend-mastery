@@ -164,7 +164,7 @@ Each issue should:
 
 ---
 
-Milestones
+## Milestones
 Current roadmap milestones include:
 - Foundation & Workspace Setup
 - HTML & CSS Foundations
