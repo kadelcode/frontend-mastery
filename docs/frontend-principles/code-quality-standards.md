@@ -1,8 +1,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-**Table of Contents** _generated with [DocToc](https://github.com/thlorenz/doctoc)_
-
 - [Code Quality Standards](#code-quality-standards)
   - [Purpose](#purpose)
 - [Tooling](#tooling)
@@ -13,7 +11,6 @@
   - [Readability First](#readability-first)
   - [Consistency Over Preference](#consistency-over-preference)
   - [Small, Focused Components](#small-focused-components)
-  - [Reusuability](#reusuability)
   - [Reusability](#reusability)
   - [Maintainability](#maintainability)
 - [Quality Checklist](#quality-checklist)
@@ -92,12 +89,6 @@ Project conventions should take precedence over personal preferences.
 ## Small, Focused Components
 
 Components should have a single responsibility whenever possible.
-
----
-
-## Reusuability
-
-Reusable pattern should be extracted and shared when appropriate.
 
 ---
 
