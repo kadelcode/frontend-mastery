@@ -94,9 +94,9 @@ camelCase
 Examples:
 
 ```ts
-const userProfile;
-const isLoading;
-const fetchProducts;
+const userProfile = { name: "Alice" };
+const isLoading = false;
+const fetchProducts = () => {};
 ```
 
 ---
