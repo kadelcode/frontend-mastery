@@ -38,7 +38,7 @@ The objective is to ensure:
 
 ESLint is used to:
 
-- identity code issues
+- identify code issues
 - enforce best practices
 - improve maintainability
 - reduce bugs
