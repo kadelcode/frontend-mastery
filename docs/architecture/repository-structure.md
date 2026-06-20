@@ -1,6 +1,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+**Table of Contents** _generated with [DocToc](https://github.com/thlorenz/doctoc)_
 
 - [Repository Structure Architecture](#repository-structure-architecture)
   - [Overview](#overview)
@@ -77,9 +78,11 @@ frontend-mastery/
 ## Workspace Responsibilities
 
 ### docs/
+
 Contains engineering-related documentation and learning resources.
 
 #### Purpose
+
 - roadmap planning
 - architecture documentation
 - frontend principles
@@ -88,6 +91,7 @@ Contains engineering-related documentation and learning resources.
 - implementation observations
 
 #### Example Structure
+
 ```
 docs/
 ├── roadmap/
@@ -99,10 +103,13 @@ docs/
 ---
 
 ### experiments/
+
 Contains isolated frontend experiments focused on learning and implementation.
 
 #### Purpose
+
 Experiments are designed to:
+
 - explore frontend concepts
 - practice UI implementation
 - test architectural ideas
@@ -110,13 +117,16 @@ Experiments are designed to:
 - reinforce learning through hands-on development
 
 #### Characteristics
+
 Experiments should:
+
 - remain relatively small in scope
 - focus on one or few concepts
 - prioritize learning and exploration
 - remain isolated from production projects
 
 #### Example Structure
+
 ```
 experiments/
 ├── html-css/
@@ -128,13 +138,17 @@ experiments/
 ---
 
 ### projects/
+
 Contains larger production-style frontend applications.
 
 #### Purpose
+
 Projects combine multiple frontend concepts together to simulate real-world frontend engineering.
 
 #### Characteristics
+
 Projects should:
+
 - contain scalable structure
 - include reusable architecture
 - implement frontend best practices
@@ -142,6 +156,7 @@ Projects should:
 - focus on maintainability
 
 #### Example Structure
+
 ```
 projects/
 ├── ecommerce-ui/
@@ -152,10 +167,13 @@ projects/
 ---
 
 ### ui-systems/
+
 Contains reusable UI architecture systems.
 
 #### Purpose
+
 This workspace focuses on advanced frontend engineering concepts such as:
+
 - design systems
 - component libraries
 - theming systems
@@ -164,13 +182,16 @@ This workspace focuses on advanced frontend engineering concepts such as:
 - reusable frontend architecture
 
 #### Characteristics
+
 UI systems should:
+
 - prioritize reusability
 - enforce consistency
 - support scalability
 - remain framework-aware where necessary
 
 #### Example Structure
+
 ```
 ui-systems/
 ├── design-system/
@@ -181,12 +202,15 @@ ui-systems/
 ---
 
 ### shared/
+
 Contains reusable shared resources across the repository.
 
 #### Purpose
+
 This workspace prevents duplication and centralizes reusable logic/resources.
 
 #### Shared Resources Include
+
 - utilities
 - hooks
 - assets
@@ -194,6 +218,7 @@ This workspace prevents duplication and centralizes reusable logic/resources.
 - shared types
 
 #### Example Structure
+
 ```
 shared/
 ├── assets/
@@ -205,12 +230,15 @@ shared/
 ---
 
 ### templates/
+
 Contains reusable development templates and scaffolds.
 
 #### Purpose
+
 Templates improve development consistency and accelerate implementation workflows.
 
 #### Examples
+
 - issue templates
 - project templates
 - component scaffolds
@@ -218,12 +246,15 @@ Templates improve development consistency and accelerate implementation workflow
 ---
 
 ### resources/
+
 Contains frontend references and inspiration resources.
 
 #### Purpose
+
 This workspace acts as a frontend inspiration and reference library.
 
 #### Examples
+
 - UI inspiration
 - design references
 - frontend cheatsheets
@@ -235,24 +266,31 @@ This workspace acts as a frontend inspiration and reference library.
 ## Architectural Principles
 
 ### Separation of Concerns
+
 Each workspace has a clearly defined responsibility to avoid architectural confusion and improve maintainability.
 
 ### Scalability
+
 The repository structure is designed to support long-term growth without becoming disorganized.
 
 ### Maintainability
+
 Folder organization and workspace separation should encourage clean and maintainable development workflows.
 
 ### Reusability
+
 Reusable systems, utilities, and patterns should be centralized where appropriate.
 
 ### Experimentation-Driven Learning
+
 Learning should happen through implementation, experimentation, and frontend system exploration.
 
 ---
 
 ## Repository Growth Philosophy
+
 This repository should evolve into:
+
 - a frontend engineering laboratory
 - a reusable UI systems workspace
 - a frontend architecture playground
@@ -262,6 +300,7 @@ This repository should evolve into:
 ---
 
 ## Future Expansion
+
 As the repository grows, additional workspaces may be introduced for:
 
 - testing
@@ -272,6 +311,7 @@ As the repository grows, additional workspaces may be introduced for:
 - CI/CD workflows
 
 Future structure decisions should prioritize:
+
 - clarity
 - scalability
 - maintainability

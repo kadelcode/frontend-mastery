@@ -1,6 +1,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+**Table of Contents** _generated with [DocToc](https://github.com/thlorenz/doctoc)_
 
 - [Frontend Mastery](#frontend-mastery)
   - [Vision](#vision)
@@ -58,6 +59,7 @@ The goal is not just to learn frontend technology, but to develop the mindset an
 This repository follows a project-based and experimentation-driven learning approach.
 
 Instead of relying solely on tutorials or theory, every concept should be reinforced through:
+
 - experiments
 - UI implementations
 - reusable systems
@@ -87,41 +89,49 @@ frontend-mastery/
 ## Workspace
 
 ### docs/
+
 Engineering documentation, architecture notes, UI/UX observations, performance learnings, and roadmap tracking.
 
 ---
 
 ### experiments/
+
 Small isolated frontend experiments focused on learning concepts, UI patterns, and implementation techniques.
 
 ---
 
 ### projects/
+
 Production-style frontend applications combining multiple frontend concepts and systems together.
 
 ---
 
 ### ui-systems/
+
 Reusable design systems, component libraries, theming systems, and scalable UI architecture exploration.
 
 ---
 
 ### shared/
+
 Reusable shared utilities, hooks, assets, constants, and type definitions.
 
 ---
 
 ### templates/
+
 Reusable issue templates, component scaffolds, and project templates.
 
 ---
 
 ### resources/
+
 Frontend inspiration, design references, cheatsheets, and learning resources.
 
 ---
 
 ## Planning Learning Areas
+
 - HTML & Semantic Markup
 - Modern CSS & Responsive Design
 - JavaScript & DOM Engineering
@@ -141,6 +151,7 @@ Frontend inspiration, design references, cheatsheets, and learning resources.
 ## Engineering Principles
 
 This repository aims to follow:
+
 - scalable architecture
 - maintainable code organization
 - reusable UI patterns
@@ -152,12 +163,15 @@ This repository aims to follow:
 ---
 
 ## GitHub Workflow
+
 Development workflow follows:
+
 ```
 Issue → Branch → Commit → Pull Request → Merge
 ```
 
 Each issue should:
+
 - focus on a frontend concept, experiment, or project
 - contain implementation goals
 - produce practical frontend output
@@ -166,7 +180,9 @@ Each issue should:
 ---
 
 ## Milestones
+
 Current roadmap milestones include:
+
 - Foundation & Workspace Setup
 - HTML & CSS Foundations
 - JavaScript UI Engineering
@@ -181,6 +197,7 @@ Current roadmap milestones include:
 ## Current Focus
 
 Current active milestone:
+
 ```
 Foundation & Workspace Setup
 ```
@@ -188,7 +205,9 @@ Foundation & Workspace Setup
 ---
 
 ## Tech Stack
+
 Planned technologies include:
+
 - TypeScript
 - React
 - Next.js
@@ -203,6 +222,7 @@ Planned technologies include:
 ## Progress Tracking
 
 Frontend learning progress is tracked using:
+
 - GitHub Issues
 - GitHub Projects
 - Milestones
@@ -213,6 +233,7 @@ Frontend learning progress is tracked using:
 ## Long-Term Objective
 
 The long-term objective of this repository is to evolve into:
+
 - a frontend engineering knowledge base
 - a UI experimentation platform
 - a reusable design systems workspace
