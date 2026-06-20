@@ -1,0 +1,28 @@
+name: Experiment
+description: Create a frontend learning experiment
+title: "experiment: "
+labels:
+  - experiment
+
+body:
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective
+      description: What concept is being explored?
+
+  - type: textarea
+    id: deliverables
+    attributes:
+      label: Deliverables
+
+  - type: textarea
+    id: learning-outcomes
+    attributes:
+      label: Learning Outcomes
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      

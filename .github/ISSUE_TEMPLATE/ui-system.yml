@@ -1,0 +1,22 @@
+name: UI System
+description: Build reusable frontend systems
+title: "ui-system: "
+labels:
+  - ui-system
+
+body:
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective
+
+  - type: textarea
+    id: deliverables
+    attributes:
+      label: Deliverables
+
+  - type: textarea
+    id: architecture
+    attributes:
+      label: Architecture Notes
+      
