@@ -1,0 +1,27 @@
+name: Project
+description: Create a frontend project
+title: "project: "
+labels:
+  - project
+
+body:
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope
+
+  - type: textarea
+    id: deliverables
+    attributes:
+      label: Deliverables
+
+  - type: textarea
+    id: learning-outcomes
+    attributes:
+      label: Learning Outcomes
+      

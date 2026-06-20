@@ -1,0 +1,17 @@
+name: Documentation
+description: Create or improve documentation
+title: "docs: "
+labels:
+  - documentation
+
+body:
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective
+
+  - type: textarea
+    id: deliverables
+    attributes:
+      label: Deliverables
+      
